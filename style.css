@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+main{
+    display: flex;
+
+}
+.list-group{
+    width: 250px;
+    margin-right: 30px;
+}
+
+.card{
+    height: 250px;
+}
